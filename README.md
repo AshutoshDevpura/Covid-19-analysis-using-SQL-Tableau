@@ -8,7 +8,7 @@ This repository contains an analysis of Covid data using SQL and Tableau. First,
 
 
 ## Getting Started
-
+If the dataset file is in .csv, convert it into .xlsx
 
 ### Requirements
 
@@ -20,8 +20,11 @@ This repository contains an analysis of Covid data using SQL and Tableau. First,
 git clone https://github.com/AshutoshDevpura/Covid-19-analysis-using-SQL-Tableau
 ```
 
+### Dataset
+ https://ourworldindata.org/covid-deaths
 
-## Tableau Dashboard Output:
+
+## Tableau Dashboard Output
 
 ![alt text](https://github.com/AshutoshDevpura/Covid-19-analysis-using-SQL-Tableau/blob/main/Visualisation/Tableau%20Dashboard.png)
 
